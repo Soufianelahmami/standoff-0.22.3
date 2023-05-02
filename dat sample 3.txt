@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"How to use this app 1","desc":"Standoff 0.22.3 is an open-source library developed for natural language processing (NLP) tasks. It was created to make it easier to work with annotated data in the biomedical domain, but it can be used for any kind of text annotation task. In this article,","photo":"https://iili.io/HSuboSj.jpg"},
+  {"title":"tips mod 2","desc":" we will explore the features and benefits of Standoff 0.22.3, its use cases, and how it compares to other annotation tools.","photo":"https://iili.io/HSusEAP.jpg"},
+  {"title":"advice pack 3","desc":"Standoff 0.22.3 is a Python library that provides a simple and flexible way to work with annotated text. It allows users to define and manage annotations using a variety of formats, including standoff, ","photo":"https://iili.io/HSubRoP.png"},
+  {"title":"helper mod 4","desc":" Spans represent a contiguous sequence of characters in the text, relations capture the relationships between spans, and attributes provide additional metadata about spans.","photo":"https://iili.io/HSus1HB.jpg"},
+  {"title":"advance pack 5","desc":"One of the main benefits of Standoff 0.22.3 is its ease of use. The library provides a high-level API that makes it easy to create and manipulate annotations. For example, to create a new span annotation, you can simply call the Span constructor and provide the start and end offsets of the span and the text it covers. Similarly, ","photo":"https://iili.io/HSushiJ.jpg"},
+  {"title":"how to use this app 6","desc":"to create a new relation annotation, you can call the Relation constructor and provide the spans it relates and the type of relation. The library also provides methods to serialize and deserialize annotations in different formats, which makes it easy to read and write annotated data.","photo":"https://iili.io/HSusMDF.jpg"},
+  {"title":"tips mod 7","desc":"Another benefit of Standoff 0.22.3 is its flexibility. The library allows users to define custom annotation types and attributes, which can be useful for specific annotation tasks. For example, if you are working with clinical text,","photo":"https://iili.io/HSubIAQ.jpg"},
+  {"title":"advice pack 8","desc":" you may want to define a custom attribute for a span that indicates whether it represents a symptom or a diagnosis. The library also provides a way to define constraints on annotations, which can be used to enforce consistency and correctness in the annotations. For example","photo":"https://iili.io/HSusXVa.jpg"}
    ]
  
 }
